@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Starry Night",
+      "detail": "Van Gogh's Starry Night",
+      "price": 150,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/350px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+    },
+    {
+      "id": "2",
+      "name": "The Scream",
+      "detail": "Edvard Munch's The Scream",
+      "price": 200,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Mona Lisa",
+      "detail": "Leonardo da Vinci's Mona Lisa",
+      "price": 500,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+      "id": "5",
+      "name": "The Girl with a Pearl Earring",
+      "detail": "Johannes Vermeer's The Girl with a Pearl Earring",
+      "price": 170,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "id": "7",
+      "name": "The Birth of Venus",
+      "detail": "Botticelli's The Birth of Venus",
+      "price": 190,
+      "imageUrl": "https://cdn.britannica.com/92/6792-004-C757C6D7/The-Birth-of-Venus-canvas-Sandro-Botticelli.jpg"
+    },
+    {
+      "id": "9",
+      "name": "The Kiss",
+      "detail": "Gustav Klimt's The Kiss",
+      "price": 160,
+      "imageUrl": "https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FNOpIAwQa-3r51Cg9qXKbfA%2Fnormalized.jpg&width=782"
+    },
+    {
+      "id": "11",
+      "name": "The Water Lily Pond",
+      "detail": "Claude Monet's The Water Lily Pond",
+      "price": 140,
+      "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/437127/796089/restricted"
+    },
+    {
+      "id": "12",
+      "name": "American Gothic",
+      "detail": "Grant Wood's American Gothic",
+      "price": 150,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/1200px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg"
+    }
+  ]
+}
