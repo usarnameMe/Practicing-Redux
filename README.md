@@ -1,5 +1,3 @@
-# <<<<<<< HEAD
-
 # 🚀 **Welcome to GVN's art Shop**
 
 > 🎨 "Art is the only way to run away without leaving home." - Twyla Tharp
