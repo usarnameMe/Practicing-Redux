@@ -14,7 +14,6 @@ const Home = () => {
 
   return (
     <div className="container product-catalogue">
-      {/* Featured Product Section */}
       <div className="featured-section">
         <div className="featured-image">
           <img src={featuredProduct.imageUrl} alt={featuredProduct.name} />
@@ -30,7 +29,6 @@ const Home = () => {
         </div>
       </div>
 
-      {/* Masonry Style Product Grid */}
       <div className="product-grid">
         {otherProducts.map((product) => (
           <div className="product-card" key={product.id}>
