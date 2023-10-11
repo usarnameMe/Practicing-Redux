@@ -47,5 +47,3 @@ npm start
 ```
 
 ## Thank you for being a part of this experience. Dive in, explore, and let's paint the digital world together!
-
-> > > > > > > 292f45703056d58cad043b48b3cad37449158216
